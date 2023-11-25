@@ -1,0 +1,23 @@
+/* App.css */
+
+.app-container {
+  display: flex;
+}
+
+.sliders-container {
+  width: 50%;
+  padding: 20px;
+}
+
+.slider-wrapper {
+  margin-bottom: 20px;
+}
+
+.slider {
+  width: 100%;
+}
+
+.pie-chart-container {
+  width: 50%;
+  padding: 20px;
+}
